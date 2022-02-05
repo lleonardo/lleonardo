@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##
-<div align="justify">
+<div align="center">
   <a href="https://github.com/lleonardo">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lleonardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleonardo&layout=compact&langs_count=7&theme=dark"/> -->
