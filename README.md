@@ -16,6 +16,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
 </div>
 
+![Snake animation](https://github.com/lleonardo/lleonardo/blob/output/github-contribution-grid-snake.svg) 
+  
 <!--
 **lleonardo/lleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
